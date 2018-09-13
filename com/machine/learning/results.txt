@@ -1,0 +1,33 @@
+Classifier: Logistic Regression
+Training Score: 0.37215119510839356
+Test Score: 0.36732425673798275
+Classifier: Nearest Neighbors
+Training Score: 0.5
+Test Score: 0.26340650180605724
+Classifier: Linear SVM
+Training Score: 1.0
+Test Score: 0.36787996665740486
+Classifier: Gradient Boosting Classifier
+Training Score: 0.9844357976653697
+Test Score: 0.46151708808002223
+Classifier: Decision Tree
+Training Score: 1.0
+Test Score: 0.414281744929147
+Classifier: Random Forest
+Training Score: 1.0
+Test Score: 0.4840233398166157
+Classifier: Neural Net
+Training Score: 0.36548082267926624
+Test Score: 0.36176715754376215
+Classifier: Naive Bayes
+Training Score: 0.17759866592551418
+Test Score: 0.18310641844956932
+Classifier: AdaBoost
+Training Score: 0.207615341856587
+Test Score: 0.21589330369547097
+Classifier: QDA
+Training Score: 0.12784880489160644
+Test Score: 0.1269797165879411
+Classifier: Gaussian Process
+Training Score: 1.0
+Test Score: 0.06724090025006946
